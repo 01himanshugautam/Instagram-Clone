@@ -22,6 +22,7 @@ class AuthScreen extends StatelessWidget {
               height: 50,
               width: 200,
             ),
+      
             const SizedBox(height: 45),
             GestureDetector(
               onTap: () {
